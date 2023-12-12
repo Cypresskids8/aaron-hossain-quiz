@@ -1,0 +1,31 @@
+Topic: space
+
+Question 1: What is the largest planet in the solar system
+saturn | neptune | earth | jupiter <-
+
+Question 2: What is the only dwarf planet in our solar system
+pluto <- | sun | astroid belt | titan
+
+Question 3: What planet is this? (earth IMG)
+uranus | mercury | earth <- | venus
+
+Question 4: how many moons does mars have
+two <- | eight | zero | 20
+
+Question 5: What is our galaxy 
+ | milky way <- | andromada | 
+
+Question 6: What is the hotest celestial body in the solar system
+earth | mercury | sun <- | mars
+
+Question 7: What seperates mars from jupiter
+meteors | comets | venus | astriod belt <-
+
+Question 8: What is the most cold planet
+saturn | pluto | uranus | neptune <-
+
+Question 9: What planet is known for its rings 
+mars | saturn <- | jupiter| neptune
+
+Question 10: what country is sending a spacecraft to the sun
+india <- | north korea | u.s.a | russia
